@@ -1,0 +1,4 @@
+- git: {local-name: catkin, uri: 'git://github.com/ros/catkin.git'}
+- git: {local-name: genmsg, uri: 'git://github.com/ros/genmsg.git'}
+- git: {local-name: gencpp, uri: 'git://github.com/ros/gencpp.git'}
+- git: {local-name: genpy, uri: 'git://github.com/ros/genpy.git'}
